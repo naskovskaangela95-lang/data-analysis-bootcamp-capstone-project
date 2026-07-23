@@ -1,0 +1,401 @@
+stop_id,stop_name,district,zone,has_shelter
+S0001,matthew radial stop,Riverside,Zone 2,N
+S0002,Brianna Avenue Stop,Centro,Zone 3,1
+S0003,jean circle stop,Northgate,Zone 2,0
+S0004,Carlos Bypass Stop,Old Town,Zone 1,Y
+S0005,JONES FREEWAY STOP,Riverside,Zone 2,N
+S0006,CALDWELL FOREST STOP,Old Town,Zone 3,Y
+S0007,Jennifer Ports Stop,Parkview,Zone 1,0
+S0008,Sanchez Mountains Stop,Hillcrest,Zone 1,N
+S0009,Lee Court Stop,Riverside,Zone 3,0
+S0010,  Gomez Loop Stop  ,Old Town,Zone 2,Y
+S0011,  Shields Center Stop  ,Westend,Zone 1,Y
+S0012,BRUCE STREAM STOP,Southbank,Zone 1,Y
+S0013,Mcbride Coves Stop,Hillcrest,Zone 1,0
+S0014,  James Plain Stop  ,Centro,Zone 3,0
+S0015,taylor falls stop,Harbourside,Zone 1,0
+S0016,FORD WELL STOP,Westend,Zone 1,0
+S0017,Scott Wall Stop,Riverside,Zone 2,1
+S0018,brent plains stop,Old Town,Zone 1,1
+S0019,  Tanya Terrace Stop  ,Eastfield,Zone 1,N
+S0020,  Gabriel Oval Stop  ,Old Town,Zone 1,0
+S0021,Lewis Locks Stop,Centro,Zone 3,Y
+S0022,  Franklin Alley Stop  ,Parkview,Zone 1,N
+S0023,BAKER TUNNEL STOP,Northgate,Zone 3,1
+S0024,Mitchell Square Stop,Harbourside,Zone 1,0
+S0025,Moore Hill Stop,Parkview,Zone 2,Y
+S0026,tanya prairie stop,Hillcrest,Zone 3,N
+S0027,Julie Centers Stop,Harbourside,Zone 1,1
+S0028,Breanna Parkway Stop,Old Town,Zone 1,Y
+S0029,BRIAN PASS STOP,Riverside,Zone 3,N
+S0030,melissa cliff stop,Northgate,Zone 1,0
+S0031,emma freeway stop,Northgate,Zone 2,N
+S0032,Wilson Port Stop,Southbank,Zone 1,N
+S0033,  Beth Canyon Stop  ,Westend,Zone 2,Y
+S0034,  Robert Prairie Stop  ,Southbank,Zone 1,0
+S0035,donovan ford stop,Southbank,Zone 1,0
+S0036,  Allen Locks Stop  ,Harbourside,Zone 1,0
+S0037,Emily Hills Stop,Centro,Zone 1,1
+S0038,  Stewart Terrace Stop  ,Northgate,Zone 1,Y
+S0039,  Albert Road Stop  ,Eastfield,Zone 1,N
+S0040,CHARLES FOREST STOP,Riverside,Zone 1,0
+S0041,ANDERSON KEYS STOP,Parkview,Zone 1,Y
+S0042,Natasha Land Stop,Centro,Zone 1,1
+S0043,  Moore Village Stop  ,Centro,Zone 2,0
+S0044,  Carr Valley Stop  ,Northgate,Zone 2,Y
+S0045,Elizabeth Plaza Stop,Eastfield,Zone 3,0
+S0046,  Huynh Cove Stop  ,Riverside,Zone 1,1
+S0047,Joseph Coves Stop,Centro,Zone 3,N
+S0048,  Joseph Rapids Stop  ,Southbank,Zone 1,1
+S0049,jennifer ford stop,Riverside,Zone 1,0
+S0050,WAGNER GLEN STOP,Hillcrest,Zone 1,0
+S0051,CHRISTOPHER MANORS STOP,Riverside,Zone 1,1
+S0052,Williams Isle Stop,Centro,Zone 1,Y
+S0053,DANA GREENS STOP,Harbourside,Zone 2,1
+S0054,Joyce Plaza Stop,Southbank,Zone 1,N
+S0055,HOFFMAN CREEK STOP,Riverside,Zone 2,0
+S0056,sierra spurs stop,Riverside,Zone 2,N
+S0057,AMY VILLAGE STOP,Parkview,Zone 1,1
+S0058,  Aguilar Drive Stop  ,Old Town,Zone 2,N
+S0059,ANDERSON INLET STOP,Southbank,Zone 2,Y
+S0060,Nolan Underpass Stop,Westend,Zone 3,Y
+S0061,Rachel Fords Stop,Northgate,Zone 2,N
+S0062,  Elizabeth Knoll Stop  ,Eastfield,Zone 1,1
+S0063,Dickson Summit Stop,Parkview,Zone 1,0
+S0064,  Sara Freeway Stop  ,Parkview,Zone 2,1
+S0065,  Theresa Valleys Stop  ,Old Town,Zone 3,1
+S0066,nicole burg stop,Riverside,Zone 1,1
+S0067,Jill Isle Stop,Parkview,Zone 3,N
+S0068,PHAM WAY STOP,Southbank,Zone 1,N
+S0069,  Joseph Turnpike Stop  ,Harbourside,Zone 1,1
+S0070,patrick camp stop,Riverside,Zone 3,0
+S0071,Walker Viaduct Stop,Southbank,Zone 2,0
+S0072,Bailey View Stop,Westend,Zone 1,Y
+S0073,Jeffrey Shoals Stop,Westend,Zone 2,N
+S0074,Raymond Harbors Stop,Hillcrest,Zone 1,N
+S0075,TAMMY HARBORS STOP,Northgate,Zone 1,1
+S0076,May Locks Stop,Riverside,Zone 1,N
+S0077,CROSBY CRESCENT STOP,Hillcrest,Zone 1,0
+S0078,white greens stop,Westend,Zone 2,0
+S0079,  Daniel Mews Stop  ,Eastfield,Zone 1,N
+S0080,Chandler Island Stop,Northgate,Zone 1,1
+S0081,obrien pass stop,Parkview,Zone 1,Y
+S0082,  Paul Ports Stop  ,Harbourside,Zone 1,Y
+S0083,Jonathan Station Stop,Northgate,Zone 3,N
+S0084,Smith Valley Stop,Riverside,Zone 2,N
+S0085,Michael Cliff Stop,Southbank,Zone 1,Y
+S0086,HANSON SHORE STOP,Old Town,Zone 2,1
+S0087,Jennifer Hills Stop,Harbourside,Zone 1,Y
+S0088,Estrada Islands Stop,Westend,Zone 3,0
+S0089,  Terry Plaza Stop  ,Old Town,Zone 3,N
+S0090,  James Shores Stop  ,Riverside,Zone 3,0
+S0091,  Byrd Extensions Stop  ,Hillcrest,Zone 3,Y
+S0092,sullivan village stop,Hillcrest,Zone 1,1
+S0093,  Kevin Fords Stop  ,Northgate,Zone 1,N
+S0094,  Floyd Rest Stop  ,Westend,Zone 3,0
+S0095,  Marshall Mills Stop  ,Eastfield,Zone 2,N
+S0096,William Underpass Stop,Northgate,Zone 3,0
+S0097,Donna Haven Stop,Eastfield,Zone 2,0
+S0098,davis terrace stop,Old Town,Zone 3,Y
+S0099,Emily Fork Stop,Harbourside,Zone 1,1
+S0100,dylan cape stop,Southbank,Zone 1,1
+S0101,TRACEY RIDGE STOP,Northgate,Zone 1,N
+S0102,Stanley Roads Stop,Hillcrest,Zone 3,Y
+S0103,Jennifer Lights Stop,Centro,Zone 1,N
+S0104,  Ross Drive Stop  ,Riverside,Zone 1,Y
+S0105,patricia wall stop,Eastfield,Zone 3,0
+S0106,  Kimberly Forges Stop  ,Westend,Zone 1,0
+S0107,  Linda Square Stop  ,Northgate,Zone 2,Y
+S0108,Williams Gateway Stop,Riverside,Zone 2,Y
+S0109,  Stephen Unions Stop  ,Westend,Zone 2,1
+S0110,Contreras Points Stop,Eastfield,Zone 1,0
+S0111,  Dodson Mills Stop  ,Harbourside,Zone 1,0
+S0112,Rivas Plaza Stop,Southbank,Zone 2,Y
+S0113,merritt summit stop,Harbourside,Zone 1,N
+S0114,Cole Terrace Stop,Northgate,Zone 1,Y
+S0115,  Mary Harbor Stop  ,Hillcrest,Zone 1,1
+S0116,Sims Harbor Stop,Hillcrest,Zone 1,1
+S0117,jones heights stop,Westend,Zone 2,Y
+S0118,JOSEPH ISLAND STOP,Riverside,Zone 1,1
+S0119,devon fort stop,Parkview,Zone 1,0
+S0120,benson squares stop,Riverside,Zone 2,N
+S0121,  Caleb Lodge Stop  ,Westend,Zone 1,Y
+S0122,Daniels Mall Stop,Riverside,Zone 1,0
+S0123,Jamie Manor Stop,Hillcrest,Zone 2,N
+S0124,STEIN PRAIRIE STOP,Harbourside,Zone 3,1
+S0125,Melissa Track Stop,Old Town,Zone 2,1
+S0126,Woods Knoll Stop,Parkview,Zone 1,N
+S0127,MOLINA WALK STOP,Eastfield,Zone 2,0
+S0128,Medina Street Stop,Harbourside,Zone 1,0
+S0129,Tracy Groves Stop,Old Town,Zone 1,N
+S0130,Tucker Loaf Stop,Northgate,Zone 3,Y
+S0131,CALDWELL UNION STOP,Westend,Zone 3,1
+S0132,  Ramsey Ville Stop  ,Riverside,Zone 1,Y
+S0133,calhoun road stop,Northgate,Zone 2,Y
+S0134,Rebecca Ramp Stop,Southbank,Zone 1,0
+S0135,christopher meadow stop,Southbank,Zone 1,Y
+S0136,MICHELLE FALLS STOP,Old Town,Zone 2,Y
+S0137,Jorge Islands Stop,Northgate,Zone 1,Y
+S0138,Shawn Junction Stop,Westend,Zone 3,Y
+S0139,RAMIREZ VILLAGE STOP,Harbourside,Zone 1,1
+S0140,KING COMMON STOP,Northgate,Zone 1,0
+S0141,SMITH PLAINS STOP,Hillcrest,Zone 2,Y
+S0142,ZOE KEYS STOP,Northgate,Zone 1,Y
+S0143,DEBRA TUNNEL STOP,Hillcrest,Zone 1,N
+S0144,  Karen Gateway Stop  ,Westend,Zone 3,N
+S0145,mary road stop,Eastfield,Zone 3,0
+S0146,John Mountains Stop,Harbourside,Zone 3,1
+S0147,Anne Forge Stop,Westend,Zone 1,1
+S0148,  Lyons Trafficway Stop  ,Hillcrest,Zone 1,0
+S0149,jackson rest stop,Harbourside,Zone 2,Y
+S0150,kimberly estates stop,Eastfield,Zone 1,N
+S0151,  Rodriguez Burg Stop  ,Northgate,Zone 3,0
+S0152,Johnston Lane Stop,Eastfield,Zone 3,0
+S0153,DAVID FLAT STOP,Northgate,Zone 1,0
+S0154,Brittany Village Stop,Eastfield,Zone 1,N
+S0155,curtis trail stop,Eastfield,Zone 1,0
+S0156,  Jefferson Rapid Stop  ,Hillcrest,Zone 3,N
+S0157,LAURA PORT STOP,Centro,Zone 2,Y
+S0158,  Michael Meadow Stop  ,Hillcrest,Zone 3,0
+S0159,JONES RUE STOP,Parkview,Zone 1,Y
+S0160,Smith Manor Stop,Parkview,Zone 1,0
+S0161,GARCIA LAKE STOP,Old Town,Zone 1,0
+S0162,ZIMMERMAN MEWS STOP,Parkview,Zone 1,0
+S0163,Jessica Run Stop,Eastfield,Zone 1,N
+S0164,Gilbert Plain Stop,Southbank,Zone 1,0
+S0165,marshall views stop,Old Town,Zone 1,Y
+S0166,  Morris Gardens Stop  ,Southbank,Zone 3,0
+S0167,  Joshua Mission Stop  ,Northgate,Zone 2,1
+S0168,KAREN PORT STOP,Riverside,Zone 1,N
+S0169,ROGERS PARK STOP,Harbourside,Zone 3,Y
+S0170,White Forest Stop,Hillcrest,Zone 3,N
+S0171,SALINAS JUNCTIONS STOP,Eastfield,Zone 3,1
+S0172,  Beard Squares Stop  ,Parkview,Zone 2,N
+S0173,  Peters Path Stop  ,Harbourside,Zone 1,1
+S0174,  Christopher Stravenue Stop  ,Harbourside,Zone 1,N
+S0175,Freeman Trace Stop,Riverside,Zone 3,N
+S0176,HANNAH RUE STOP,Eastfield,Zone 1,0
+S0177,  West Brook Stop  ,Centro,Zone 1,N
+S0178,  Kelly Lodge Stop  ,Harbourside,Zone 1,0
+S0179,  Kevin Prairie Stop  ,Centro,Zone 2,0
+S0180,Kennedy Pines Stop,Northgate,Zone 3,Y
+S0181,Coleman Summit Stop,Riverside,Zone 1,Y
+S0182,  Bell Motorway Stop  ,Southbank,Zone 1,0
+S0183,Parker Fort Stop,Westend,Zone 1,0
+S0184,Jennifer Island Stop,Northgate,Zone 2,0
+S0185,JULIA TRACK STOP,Centro,Zone 2,0
+S0186,James Streets Stop,Centro,Zone 2,0
+S0187,HILL RADIAL STOP,Harbourside,Zone 1,0
+S0188,hooper village stop,Eastfield,Zone 2,Y
+S0189,KENNETH LAKE STOP,Southbank,Zone 3,1
+S0190,  Kevin Station Stop  ,Hillcrest,Zone 2,0
+S0191,joshua center stop,Hillcrest,Zone 2,1
+S0192,Terry Crossroad Stop,Centro,Zone 3,Y
+S0193,Garcia Bridge Stop,Old Town,Zone 2,1
+S0194,harrison mill stop,Centro,Zone 1,N
+S0195,LOPEZ CENTER STOP,Eastfield,Zone 1,0
+S0196,Everett Neck Stop,Eastfield,Zone 3,0
+S0197,Lynn Locks Stop,Hillcrest,Zone 2,N
+S0198,JONES ROADS STOP,Riverside,Zone 2,N
+S0199,Edward Valleys Stop,Parkview,Zone 1,1
+S0200,Miller Gateway Stop,Old Town,Zone 1,Y
+S0201,  Angela Mall Stop  ,Harbourside,Zone 3,1
+S0202,  Kimberly Light Stop  ,Southbank,Zone 3,N
+S0203,  Kerr Hills Stop  ,Old Town,Zone 1,N
+S0204,Torres River Stop,Riverside,Zone 3,1
+S0205,  Chelsea Streets Stop  ,Westend,Zone 2,1
+S0206,  Stacey Fords Stop  ,Hillcrest,Zone 1,1
+S0207,Joseph Common Stop,Harbourside,Zone 2,Y
+S0208,John Plaza Stop,Parkview,Zone 1,1
+S0209,ERIC LODGE STOP,Centro,Zone 1,1
+S0210,Norris Mountains Stop,Southbank,Zone 1,1
+S0211,johnson heights stop,Northgate,Zone 3,0
+S0212,Warner Motorway Stop,Eastfield,Zone 1,Y
+S0213,  Grace Greens Stop  ,Riverside,Zone 1,0
+S0214,  Ronald Plains Stop  ,Old Town,Zone 3,Y
+S0215,  Deborah Grove Stop  ,Centro,Zone 3,Y
+S0216,charles expressway stop,Centro,Zone 2,Y
+S0217,Larson Views Stop,Old Town,Zone 2,0
+S0218,Gonzales Mountain Stop,Harbourside,Zone 1,1
+S0219,lyons groves stop,Centro,Zone 2,N
+S0220,KIM RAPID STOP,Harbourside,Zone 1,Y
+S0221,Pamela Street Stop,Eastfield,Zone 2,Y
+S0222,Munoz Burg Stop,Southbank,Zone 2,N
+S0223,JEREMY SPRING STOP,Hillcrest,Zone 2,Y
+S0224,Yvonne Spring Stop,Northgate,Zone 2,Y
+S0225,JOHNSTON TRACK STOP,Old Town,Zone 2,N
+S0226,Thomas Run Stop,Northgate,Zone 1,1
+S0227,Moon Falls Stop,Eastfield,Zone 2,1
+S0228,  Walters Overpass Stop  ,Hillcrest,Zone 1,1
+S0229,  Theodore Lodge Stop  ,Parkview,Zone 1,N
+S0230,Morris Cove Stop,Hillcrest,Zone 3,Y
+S0231,mark square stop,Centro,Zone 1,Y
+S0232,roberts locks stop,Centro,Zone 3,0
+S0233,shawn island stop,Parkview,Zone 2,1
+S0234,Morris Trail Stop,Northgate,Zone 2,1
+S0235,hancock views stop,Westend,Zone 1,Y
+S0236,diane plains stop,Parkview,Zone 1,0
+S0237,  Gutierrez Field Stop  ,Harbourside,Zone 1,0
+S0238,  Dean Parks Stop  ,Eastfield,Zone 2,Y
+S0239,Wolf Ford Stop,Hillcrest,Zone 2,N
+S0240,  Dunn Heights Stop  ,Northgate,Zone 1,Y
+S0241,Gilmore Oval Stop,Northgate,Zone 2,0
+S0242,ANTHONY ROADS STOP,Riverside,Zone 1,N
+S0243,Jennifer Inlet Stop,Parkview,Zone 2,0
+S0244,Andrea Course Stop,Old Town,Zone 1,1
+S0245,VICTORIA CRESCENT STOP,Old Town,Zone 1,0
+S0246,valentine rue stop,Hillcrest,Zone 3,N
+S0247,tyrone stravenue stop,Old Town,Zone 3,0
+S0248,Hicks Groves Stop,Old Town,Zone 2,1
+S0249,Davenport Mountains Stop,Riverside,Zone 1,Y
+S0250,Stephen Drive Stop,Harbourside,Zone 3,N
+S0251,Lee Rapid Stop,Parkview,Zone 1,0
+S0252,michelle harbor stop,Centro,Zone 2,N
+S0253,Morgan Turnpike Stop,Harbourside,Zone 2,1
+S0254,HOOVER HAVEN STOP,Harbourside,Zone 1,N
+S0255,  Monroe Prairie Stop  ,Westend,Zone 1,N
+S0256,  Grimes Mission Stop  ,Northgate,Zone 2,0
+S0257,  Reed Plaza Stop  ,Parkview,Zone 1,0
+S0258,Gibson Islands Stop,Southbank,Zone 1,N
+S0259,  Tina Garden Stop  ,Parkview,Zone 1,N
+S0260,Hall Trail Stop,Northgate,Zone 2,1
+S0261,WILLIAMS SUMMIT STOP,Eastfield,Zone 1,Y
+S0262,Thornton Valleys Stop,Eastfield,Zone 1,N
+S0263,  Hughes Shore Stop  ,Westend,Zone 2,0
+S0264,  Tyler Camp Stop  ,Southbank,Zone 2,0
+S0265,Wayne Ramp Stop,Northgate,Zone 3,Y
+S0266,kane well stop,Westend,Zone 1,1
+S0267,GARCIA MOTORWAY STOP,Hillcrest,Zone 1,N
+S0268,JENNIFER LODGE STOP,Harbourside,Zone 1,Y
+S0269,CHARLES TUNNEL STOP,Westend,Zone 2,1
+S0270,Morgan Square Stop,Westend,Zone 2,1
+S0271,  Santos Walk Stop  ,Southbank,Zone 2,0
+S0272,  Phelps Walks Stop  ,Northgate,Zone 1,N
+S0273,finley road stop,Northgate,Zone 1,Y
+S0274,Brennan Camp Stop,Westend,Zone 1,N
+S0275,Jimmy Spur Stop,Westend,Zone 3,0
+S0276,Bright Summit Stop,Westend,Zone 2,Y
+S0277,Ryan Courts Stop,Northgate,Zone 3,Y
+S0278,scott square stop,Hillcrest,Zone 3,0
+S0279,Berger Cape Stop,Parkview,Zone 1,Y
+S0280,flynn hill stop,Westend,Zone 2,1
+S0281,  Brooks Drive Stop  ,Hillcrest,Zone 3,Y
+S0282,amanda port stop,Hillcrest,Zone 1,1
+S0283,George Common Stop,Northgate,Zone 1,1
+S0284,  Harvey Garden Stop  ,Old Town,Zone 1,1
+S0285,Durham Divide Stop,Westend,Zone 1,Y
+S0286,Steven Glens Stop,Eastfield,Zone 3,1
+S0287,  Scott Branch Stop  ,Westend,Zone 3,N
+S0288,SANTANA SPRINGS STOP,Centro,Zone 3,1
+S0289,  Charles Key Stop  ,Harbourside,Zone 2,1
+S0290,FOWLER MANORS STOP,Old Town,Zone 1,Y
+S0291,Bryant Hollow Stop,Northgate,Zone 1,Y
+S0292,Yvonne Walk Stop,Hillcrest,Zone 3,N
+S0293,RODRIGUEZ LIGHT STOP,Southbank,Zone 2,1
+S0294,  Andrews Squares Stop  ,Old Town,Zone 1,0
+S0295,  Johnson Village Stop  ,Riverside,Zone 2,0
+S0296,  Hill Port Stop  ,Westend,Zone 1,Y
+S0297,RENEE SUMMIT STOP,Eastfield,Zone 2,N
+S0298,WALL HEIGHTS STOP,Harbourside,Zone 2,N
+S0299,CATHERINE KNOLL STOP,Old Town,Zone 1,Y
+S0300,  Dana River Stop  ,Harbourside,Zone 1,1
+S0301,BYRD STRAVENUE STOP,Hillcrest,Zone 1,Y
+S0302,courtney road stop,Riverside,Zone 1,0
+S0303,kyle mill stop,Hillcrest,Zone 1,1
+S0304,  Bethany Street Stop  ,Centro,Zone 3,N
+S0305,  Christopher Hill Stop  ,Parkview,Zone 2,0
+S0306,BURGESS EXTENSIONS STOP,Hillcrest,Zone 2,1
+S0307,David Plains Stop,Parkview,Zone 1,0
+S0308,SCHMIDT GROVES STOP,Parkview,Zone 1,0
+S0309,JONATHAN VIEWS STOP,Centro,Zone 1,1
+S0310,coffey hill stop,Northgate,Zone 1,0
+S0311,brock mountain stop,Northgate,Zone 1,0
+S0312,  Donald Fork Stop  ,Riverside,Zone 3,0
+S0313,COFFEY UNIONS STOP,Hillcrest,Zone 1,Y
+S0314,DAVIS LOCKS STOP,Centro,Zone 2,1
+S0315,Joseph Crossing Stop,Parkview,Zone 2,0
+S0316,Richardson Summit Stop,Northgate,Zone 1,N
+S0317,Richards View Stop,Southbank,Zone 2,N
+S0318,Rodriguez Fort Stop,Riverside,Zone 1,N
+S0319,  Johnson Points Stop  ,Harbourside,Zone 1,Y
+S0320,Herman Forges Stop,Harbourside,Zone 2,N
+S0321,CYNTHIA MOUNTAIN STOP,Westend,Zone 1,Y
+S0322,Banks Crescent Stop,Harbourside,Zone 1,N
+S0323,Brandon Camp Stop,Centro,Zone 1,N
+S0324,Ferrell Crescent Stop,Harbourside,Zone 1,1
+S0325,jimmy plain stop,Westend,Zone 1,N
+S0326,Paul Land Stop,Old Town,Zone 3,Y
+S0327,Matthews Stream Stop,Riverside,Zone 2,Y
+S0328,Nicole Shoal Stop,Eastfield,Zone 1,1
+S0329,  Martha Ridges Stop  ,Northgate,Zone 2,0
+S0330,  Crosby Harbors Stop  ,Harbourside,Zone 1,1
+S0331,Hannah Forge Stop,Eastfield,Zone 1,1
+S0332,  Wallace Freeway Stop  ,Hillcrest,Zone 1,N
+S0333,  Garcia Spur Stop  ,Old Town,Zone 1,Y
+S0334,STEPHENS RUE STOP,Harbourside,Zone 1,N
+S0335,BROWN HARBOR STOP,Old Town,Zone 1,N
+S0336,  Tammy Vista Stop  ,Riverside,Zone 3,Y
+S0337,Davis Forest Stop,Centro,Zone 2,0
+S0338,BRENT ISLE STOP,Centro,Zone 2,1
+S0339,Vanessa Turnpike Stop,Harbourside,Zone 1,0
+S0340,Casey Track Stop,Hillcrest,Zone 1,0
+S0341,Brenda Via Stop,Harbourside,Zone 3,0
+S0342,Mark Drive Stop,Centro,Zone 2,Y
+S0343,  Joshua Drive Stop  ,Eastfield,Zone 2,Y
+S0344,Amber Union Stop,Westend,Zone 1,0
+S0345,DANIEL WAY STOP,Parkview,Zone 1,0
+S0346,DAVID KNOLLS STOP,Harbourside,Zone 1,N
+S0347,BRIANNA BROOK STOP,Centro,Zone 1,N
+S0348,Joseph Crossroad Stop,Parkview,Zone 1,0
+S0349,fox summit stop,Centro,Zone 1,N
+S0350,thomas tunnel stop,Centro,Zone 1,N
+S0351,palmer coves stop,Westend,Zone 3,Y
+S0352,GORDON RIDGES STOP,Eastfield,Zone 2,N
+S0353,Jessica Way Stop,Westend,Zone 1,0
+S0354,ellis burgs stop,Westend,Zone 3,0
+S0355,yolanda vista stop,Old Town,Zone 3,Y
+S0356,  Simmons Coves Stop  ,Old Town,Zone 2,N
+S0357,  Joseph Mills Stop  ,Old Town,Zone 3,1
+S0358,  Rachel Islands Stop  ,Westend,Zone 1,1
+S0359,Cameron Harbor Stop,Old Town,Zone 3,1
+S0360,James Ranch Stop,Riverside,Zone 1,Y
+S0361,chavez rapids stop,Old Town,Zone 1,Y
+S0362,  Garcia Squares Stop  ,Hillcrest,Zone 3,1
+S0363,melissa run stop,Old Town,Zone 1,Y
+S0364,Russell Forks Stop,Parkview,Zone 1,0
+S0365,Morgan Motorway Stop,Eastfield,Zone 1,Y
+S0366,PERRY COURT STOP,Eastfield,Zone 1,0
+S0367,  Simmons Shores Stop  ,Westend,Zone 1,N
+S0368,Brooks Drives Stop,Eastfield,Zone 1,0
+S0369,Jones Village Stop,Northgate,Zone 2,Y
+S0370,  Christopher Court Stop  ,Hillcrest,Zone 2,N
+S0371,Cain Point Stop,Harbourside,Zone 1,0
+S0372,BRENDA POINTS STOP,Southbank,Zone 1,Y
+S0373,  Santiago Loop Stop  ,Harbourside,Zone 1,1
+S0374,RUSSO TERRACE STOP,Northgate,Zone 1,N
+S0375,Parrish Stravenue Stop,Old Town,Zone 1,Y
+S0376,tanya rapid stop,Parkview,Zone 1,N
+S0377,bell ports stop,Riverside,Zone 2,0
+S0378,Eric Orchard Stop,Parkview,Zone 1,0
+S0379,MELANIE KEYS STOP,Parkview,Zone 3,0
+S0380,wilson harbors stop,Centro,Zone 2,1
+S0381,  Lindsay Vista Stop  ,Hillcrest,Zone 2,Y
+S0382,Chelsea Shoals Stop,Southbank,Zone 2,0
+S0383,Johnson Groves Stop,Harbourside,Zone 3,0
+S0384,Dorsey Keys Stop,Centro,Zone 2,0
+S0385,  Howard Divide Stop  ,Northgate,Zone 2,Y
+S0386,JONES STREETS STOP,Centro,Zone 1,0
+S0387,Christopher Pines Stop,Old Town,Zone 1,Y
+S0388,Nicholas Motorway Stop,Hillcrest,Zone 1,Y
+S0389,MOORE INLET STOP,Northgate,Zone 2,0
+S0390,Frank Port Stop,Riverside,Zone 1,0
+S0391,  Nicole Drives Stop  ,Centro,Zone 1,N
+S0392,  Karen Causeway Stop  ,Parkview,Zone 3,1
+S0393,Joseph Shore Stop,Riverside,Zone 1,1
+S0394,TUCKER MILLS STOP,Centro,Zone 2,N
+S0395,NELSON THROUGHWAY STOP,Riverside,Zone 3,N
+S0396,Michael Creek Stop,Southbank,Zone 1,1
+S0397,  Gregory Ramp Stop  ,Hillcrest,Zone 1,Y
+S0398,  Rose Inlet Stop  ,Northgate,Zone 1,N
+S0399,Jeffrey Rapid Stop,Southbank,Zone 1,0
+S0400,ADRIAN HOLLOW STOP,Hillcrest,Zone 1,Y

@@ -1,0 +1,181 @@
+vehicle_id,vehicle_type,capacity,year_manufactured,depot
+V0001,Articulated Bus,125,2021,Central Depot
+V0002,Standard Bus,,1998,East Depot
+V0003,Articulated Bus,118,2022,Central Depot
+V0004,Tram,170,2008,Central Depot
+V0005,Standard Bus,73,2013,Riverside Depot
+V0006,Articulated Bus,119,2009,East Depot
+V0007,Tram,213,2021,East Depot
+V0008,Standard Bus,78,2016,East Depot
+V0009,Articulated Bus,118,2014,Riverside Depot
+V0010,Standard Bus,80,2011,Central Depot
+V0011,Standard Bus,75,1996,East Depot
+V0012,Metro Set,,1998,East Depot
+V0013,Tram,199,2016,Riverside Depot
+V0014,Standard Bus,80,2003,Central Depot
+V0015,Metro Set,525,2016,East Depot
+V0016,Metro Set,676,2017,Central Depot
+V0017,Standard Bus,,1986,North Depot
+V0018,Tram,211,1989,East Depot
+V0019,Standard Bus,78,2015,North Depot
+V0020,Metro Set,519,2017,Central Depot
+V0021,Tram,,2009,Riverside Depot
+V0022,Tram,,2005,Riverside Depot
+V0023,Standard Bus,78,2001,North Depot
+V0024,Metro Set,664,1994,Riverside Depot
+V0025,Standard Bus,66,2019,North Depot
+V0026,Standard Bus,65,2000,Riverside Depot
+V0027,Standard Bus,61,1992,North Depot
+V0028,Tram,218,2013,East Depot
+V0029,Standard Bus,68,1996,Central Depot
+V0030,Metro Set,690,2007,East Depot
+V0031,Tram,194,2008,Central Depot
+V0032,Standard Bus,62,2004,Central Depot
+V0033,Standard Bus,,1987,North Depot
+V0034,Standard Bus,73,2003,North Depot
+V0035,Articulated Bus,137,2001,East Depot
+V0036,Tram,187,2006,North Depot
+V0037,Standard Bus,66,1994,North Depot
+V0038,Tram,215,2006,East Depot
+V0039,Standard Bus,66,2011,North Depot
+V0040,Tram,179,1997,Central Depot
+V0041,Metro Set,611,1996,East Depot
+V0042,Tram,196,2016,Riverside Depot
+V0043,Tram,210,2024,East Depot
+V0044,Tram,217,2021,Central Depot
+V0045,Standard Bus,62,2007,North Depot
+V0046,Standard Bus,70,2023,Central Depot
+V0047,Standard Bus,80,1986,North Depot
+V0048,Articulated Bus,111,1986,Riverside Depot
+V0049,Tram,201,2003,Central Depot
+V0050,Articulated Bus,106,1987,Riverside Depot
+V0051,Metro Set,636,1987,Riverside Depot
+V0052,Standard Bus,68,1997,Central Depot
+V0053,Tram,177,1985,Central Depot
+V0054,Standard Bus,70,1985,Central Depot
+V0055,Standard Bus,69,1899,North Depot
+V0056,Tram,186,2018,East Depot
+V0057,Metro Set,596,1899,North Depot
+V0058,Articulated Bus,114,1994,North Depot
+V0059,Standard Bus,69,1986,Central Depot
+V0060,Articulated Bus,104,1991,Central Depot
+V0061,Standard Bus,60,2021,Riverside Depot
+V0062,Metro Set,530,1986,North Depot
+V0063,Tram,204,1994,East Depot
+V0064,Standard Bus,60,2018,East Depot
+V0065,Standard Bus,63,2009,Riverside Depot
+V0066,Standard Bus,65,2035,East Depot
+V0067,Metro Set,619,2003,Central Depot
+V0068,Articulated Bus,131,1999,East Depot
+V0069,Tram,206,2016,East Depot
+V0070,Articulated Bus,113,2001,Riverside Depot
+V0071,Articulated Bus,,1986,East Depot
+V0072,Standard Bus,75,1991,North Depot
+V0073,Metro Set,567,2014,Central Depot
+V0074,Standard Bus,62,2008,East Depot
+V0075,Articulated Bus,108,2012,Central Depot
+V0076,Tram,,2024,East Depot
+V0077,Articulated Bus,123,2035,East Depot
+V0078,Metro Set,668,2020,Central Depot
+V0079,Standard Bus,,2009,North Depot
+V0080,Articulated Bus,113,2008,Riverside Depot
+V0081,Standard Bus,60,2018,Central Depot
+V0082,Articulated Bus,133,1994,East Depot
+V0083,Standard Bus,71,2035,Riverside Depot
+V0084,Standard Bus,75,2012,North Depot
+V0085,Standard Bus,80,2015,Riverside Depot
+V0086,Standard Bus,60,2005,North Depot
+V0087,Standard Bus,68,2005,Riverside Depot
+V0088,Articulated Bus,116,2020,North Depot
+V0089,Articulated Bus,137,1990,East Depot
+V0090,Standard Bus,78,1899,Central Depot
+V0091,Standard Bus,69,1993,East Depot
+V0092,Standard Bus,67,2035,Central Depot
+V0093,Articulated Bus,128,2014,Riverside Depot
+V0094,Standard Bus,62,2007,East Depot
+V0095,Standard Bus,76,2019,Central Depot
+V0096,Standard Bus,,1993,Central Depot
+V0097,Articulated Bus,116,2024,Riverside Depot
+V0098,Standard Bus,68,2020,North Depot
+V0099,Articulated Bus,123,2009,Central Depot
+V0100,Articulated Bus,136,2009,Central Depot
+V0101,Tram,193,1992,Riverside Depot
+V0102,Articulated Bus,108,1990,Central Depot
+V0103,Tram,227,1998,Central Depot
+V0104,Standard Bus,75,1988,North Depot
+V0105,Tram,182,1996,North Depot
+V0106,Articulated Bus,119,2005,Central Depot
+V0107,Standard Bus,70,1986,Central Depot
+V0108,Articulated Bus,120,2011,Central Depot
+V0109,Standard Bus,66,1995,North Depot
+V0110,Articulated Bus,134,2020,East Depot
+V0111,Tram,227,2024,North Depot
+V0112,Metro Set,565,1990,North Depot
+V0113,Metro Set,662,1988,North Depot
+V0114,Articulated Bus,108,2006,North Depot
+V0115,Articulated Bus,133,1991,East Depot
+V0116,Tram,188,2014,Riverside Depot
+V0117,Standard Bus,75,2001,Central Depot
+V0118,Tram,226,1993,Central Depot
+V0119,Articulated Bus,106,2020,Central Depot
+V0120,Standard Bus,63,2035,Central Depot
+V0121,Standard Bus,65,2002,Central Depot
+V0122,Tram,222,2019,East Depot
+V0123,Standard Bus,65,2006,North Depot
+V0124,Standard Bus,79,1991,Central Depot
+V0125,Standard Bus,70,2016,North Depot
+V0126,Standard Bus,71,2006,North Depot
+V0127,Standard Bus,62,1990,Central Depot
+V0128,Tram,227,2004,North Depot
+V0129,Standard Bus,64,2007,Riverside Depot
+V0130,Tram,177,1986,Central Depot
+V0131,Metro Set,619,1997,Riverside Depot
+V0132,Standard Bus,71,2001,Riverside Depot
+V0133,Standard Bus,77,2035,North Depot
+V0134,Articulated Bus,108,2003,East Depot
+V0135,Standard Bus,61,1998,Central Depot
+V0136,Standard Bus,73,2016,East Depot
+V0137,Metro Set,548,2016,East Depot
+V0138,Metro Set,,2002,East Depot
+V0139,Tram,187,2024,North Depot
+V0140,Standard Bus,62,2003,Riverside Depot
+V0141,Tram,194,2010,East Depot
+V0142,Tram,214,1997,North Depot
+V0143,Standard Bus,72,2035,East Depot
+V0144,Articulated Bus,114,2023,Central Depot
+V0145,Standard Bus,,2012,Riverside Depot
+V0146,Standard Bus,78,2002,North Depot
+V0147,Articulated Bus,121,2035,Central Depot
+V0148,Standard Bus,79,1997,East Depot
+V0149,Standard Bus,68,2014,Central Depot
+V0150,Tram,201,2035,North Depot
+V0151,Metro Set,626,2001,East Depot
+V0152,Articulated Bus,118,2001,Riverside Depot
+V0153,Tram,210,1988,East Depot
+V0154,Metro Set,514,2011,Riverside Depot
+V0155,Standard Bus,76,1992,Riverside Depot
+V0156,Standard Bus,74,1994,Riverside Depot
+V0157,Standard Bus,62,1899,North Depot
+V0158,Standard Bus,79,2011,Riverside Depot
+V0159,Tram,212,2006,East Depot
+V0160,Standard Bus,65,2009,Central Depot
+V0161,Articulated Bus,137,1997,North Depot
+V0162,Standard Bus,60,2012,East Depot
+V0163,Standard Bus,72,2035,Central Depot
+V0164,Metro Set,664,2022,Riverside Depot
+V0165,Standard Bus,70,2006,Riverside Depot
+V0166,Standard Bus,65,1998,Riverside Depot
+V0167,Standard Bus,77,2021,Central Depot
+V0168,Articulated Bus,130,2014,Central Depot
+V0169,Articulated Bus,118,2004,East Depot
+V0170,Articulated Bus,112,2035,North Depot
+V0171,Standard Bus,68,2008,East Depot
+V0172,Standard Bus,78,2017,North Depot
+V0173,Tram,190,1985,Central Depot
+V0174,Articulated Bus,107,2018,East Depot
+V0175,Articulated Bus,116,1989,North Depot
+V0176,Tram,179,1992,North Depot
+V0177,Tram,226,2009,East Depot
+V0178,Standard Bus,62,1987,Central Depot
+V0179,Standard Bus,78,1995,North Depot
+V0180,Articulated Bus,132,1989,Central Depot

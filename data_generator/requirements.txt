@@ -1,0 +1,4 @@
+# Instructor-only dependencies for the synthetic data generator.
+Faker==30.8.2
+numpy==2.1.3
+pandas==2.2.3

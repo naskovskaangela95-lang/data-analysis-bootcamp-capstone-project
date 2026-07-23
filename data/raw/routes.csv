@@ -1,0 +1,61 @@
+route_id,route_name,mode,district,route_length_km,scheduled_trips_per_day
+R001,Angel Harbor Line,tram,Harbourside,19.8,133
+R002,Jeffrey Street Line,BUS ,,12.6,80
+R003,Erica Plains Line,METRO ,Southbank,4.3,203
+R004,Brittany Bypass Line,Tram,Northgate,17.6,131
+R005,Clayton Fort Line,bus,,5.0,159
+R006,  Anna Stravenue Line  ,metro,Parkview,18.3,120
+R007,  Robinson Radial Line  ,Tram,Old Town,,88
+R008,Pacheco Avenue Line,Tram,Old Town,8.8,201
+R009,Helen Junctions Line,bus,Hillcrest,,109
+R010,Moore Track Line,BUS,Hillcrest,15.7,60
+R011,Garcia Light Line,Bus,Hillcrest,12.5,48
+R012,Michael Key Line,metro,Eastfield,3.9,36
+R013,  Roman Stream Line  ,BUS ,Northgate,15.9,79
+R014,Herrera Lane Line,TRAM ,Harbourside,3.5,89
+R015,Andrea Village Line,bus,Hillcrest,13.7,108
+R016,Ray Squares Line,BUS,Westend,10.3,114
+R017,Brandon Forks Line,bus,Centro,22.7,80
+R018,  Galloway Walk Line  ,BUS ,Eastfield,17.5,154
+R019,Michelle Light Line,Tram,Northgate,,48
+R020,  Chavez Village Line  ,BUS ,Old Town,10.0,185
+R021,  Martin Knoll Line  ,tram,Westend,23.6,126
+R022,Elizabeth Squares Line,Bus,Parkview,19.5,218
+R023,Chelsea Extension Line,Metro,Westend,20.0,102
+R024,  Frank Light Line  ,metro,Hillcrest,23.6,169
+R025,  Mayo Route Line  ,Tram,Southbank,6.9,163
+R026,  Gabrielle Ville Line  ,BUS,Riverside,24.4,82
+R027,  Jeremy Bypass Line  ,BUS,Centro,5.9,213
+R028,Morales Circles Line,Bus,Parkview,7.4,158
+R029,Robin Port Line,Bus,Hillcrest,5.7,36
+R030,  Lewis Parks Line  ,tram,Northgate,24.0,117
+R031,Wilkerson Row Line,tram,Centro,16.9,164
+R032,Thomas Dam Line,Metro,Centro,23.5,213
+R033,Julie Plain Line,BUS ,,5.4,70
+R034,  Burgess Meadow Line  ,BUS,Old Town,22.1,126
+R035,Cox Dam Line,Bus,Old Town,17.3,74
+R036,  Davis Causeway Line  ,bus,Riverside,21.0,67
+R037,  Eric Estate Line  ,bus,Westend,21.1,204
+R038,Carlson Lights Line,Bus,Westend,6.4,53
+R039,  Carlson Mountain Line  ,BUS ,Centro,4.2,123
+R040,  Maddox Wall Line  ,TRAM ,Southbank,22.3,83
+R041,  Erin Crescent Line  ,bus,Northgate,8.5,209
+R042,  Mack Junctions Line  ,tram,Centro,5.2,94
+R043,  Kelly Estate Line  ,tram,Parkview,21.6,67
+R044,Smith Stravenue Line,BUS,Westend,20.1,175
+R045,Stanton Track Line,Tram,Westend,13.2,157
+R046,  William Coves Line  ,tram,Centro,12.2,47
+R047,  Skinner Parkways Line  ,BUS ,Old Town,11.3,67
+R048,Eric Track Line,bus,Eastfield,10.2,203
+R049,Amber Tunnel Line,tram,Eastfield,14.7,34
+R050,Carol Overpass Line,bus,Centro,21.9,60
+R051,Daniel Lake Line,BUS ,Centro,4.9,164
+R052,Allen Garden Line,Bus,Northgate,20.2,180
+R053,Christopher Oval Line,Tram,Riverside,5.1,53
+R054,Tiffany Place Line,Tram,Centro,14.5,134
+R055,David Mountains Line,tram,Harbourside,23.5,177
+R056,  Joseph Well Line  ,Tram,Harbourside,20.0,151
+R057,  Brandt Plains Line  ,BUS ,Southbank,9.0,126
+R058,  Jennifer Locks Line  ,bus,Parkview,12.6,49
+R059,Kim Path Line,Bus,Westend,20.2,47
+R060,Martinez Fork Line,bus,Centro,5.6,163
