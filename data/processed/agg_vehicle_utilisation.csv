@@ -1,0 +1,181 @@
+vehicle_id,vehicle_type,depot,vehicle_age_band,total_boardings,active_days,avg_load_factor
+V0016,Metro Set,Central Depot,6-10,327.0,144,0.0016
+V0030,Metro Set,East Depot,11-20,358.0,149,0.0016
+V0113,Metro Set,North Depot,20+,348.0,160,0.0016
+V0078,Metro Set,Central Depot,0-5,319.0,145,0.0016
+V0024,Metro Set,Riverside Depot,20+,375.0,153,0.0017
+V0051,Metro Set,Riverside Depot,20+,313.0,142,0.0017
+V0164,Metro Set,Riverside Depot,0-5,324.0,139,0.0017
+V0138,Metro Set,East Depot,20+,320.0,151,0.0017
+V0067,Metro Set,Central Depot,20+,352.0,151,0.0018
+V0073,Metro Set,Central Depot,6-10,350.0,156,0.0018
+V0012,Metro Set,East Depot,20+,315.0,142,0.0018
+V0112,Metro Set,North Depot,20+,308.0,148,0.0018
+V0131,Metro Set,Riverside Depot,20+,349.0,156,0.0018
+V0151,Metro Set,East Depot,20+,346.0,157,0.0018
+V0041,Metro Set,East Depot,20+,330.0,149,0.0018
+V0057,Metro Set,North Depot,Unknown,338.0,152,0.0018
+V0062,Metro Set,North Depot,20+,348.0,148,0.0021
+V0020,Metro Set,Central Depot,6-10,316.0,143,0.0021
+V0015,Metro Set,East Depot,6-10,322.0,149,0.0021
+V0137,Metro Set,East Depot,6-10,350.0,151,0.0021
+V0154,Metro Set,Riverside Depot,11-20,335.0,151,0.0022
+V0103,Tram,Central Depot,20+,636.0,176,0.0048
+V0122,Tram,East Depot,0-5,612.0,176,0.0048
+V0111,Tram,North Depot,0-5,673.0,175,0.0048
+V0118,Tram,Central Depot,20+,649.0,175,0.0048
+V0177,Tram,East Depot,11-20,666.0,175,0.0048
+V0128,Tram,North Depot,11-20,636.0,171,0.0048
+V0159,Tram,East Depot,11-20,606.0,173,0.005
+V0007,Tram,East Depot,0-5,609.0,175,0.005
+V0044,Tram,Central Depot,0-5,623.0,176,0.005
+V0018,Tram,East Depot,20+,617.0,173,0.005
+V0069,Tram,East Depot,6-10,633.0,172,0.0051
+V0038,Tram,East Depot,11-20,655.0,178,0.0051
+V0028,Tram,East Depot,11-20,641.0,171,0.0051
+V0142,Tram,North Depot,20+,627.0,174,0.0051
+V0153,Tram,East Depot,20+,626.0,175,0.0051
+V0043,Tram,East Depot,0-5,634.0,174,0.0052
+V0150,Tram,North Depot,Unknown,593.0,174,0.0053
+V0049,Tram,Central Depot,20+,609.0,175,0.0053
+V0063,Tram,East Depot,20+,635.0,176,0.0054
+V0022,Tram,Riverside Depot,11-20,642.0,176,0.0054
+V0076,Tram,East Depot,0-5,652.0,174,0.0055
+V0021,Tram,Riverside Depot,11-20,656.0,177,0.0055
+V0013,Tram,Riverside Depot,6-10,647.0,178,0.0055
+V0141,Tram,East Depot,11-20,642.0,173,0.0055
+V0042,Tram,Riverside Depot,6-10,666.0,175,0.0056
+V0101,Tram,Riverside Depot,20+,661.0,179,0.0056
+V0031,Tram,Central Depot,11-20,669.0,178,0.0057
+V0036,Tram,North Depot,11-20,649.0,177,0.0058
+V0040,Tram,Central Depot,20+,650.0,178,0.0058
+V0173,Tram,Central Depot,20+,614.0,172,0.0058
+V0139,Tram,North Depot,0-5,668.0,178,0.0058
+V0116,Tram,Riverside Depot,6-10,697.0,176,0.0058
+V0056,Tram,East Depot,6-10,670.0,175,0.0059
+V0130,Tram,Central Depot,20+,593.0,173,0.0061
+V0176,Tram,North Depot,20+,743.0,179,0.0061
+V0053,Tram,Central Depot,20+,669.0,177,0.0061
+V0105,Tram,North Depot,20+,678.0,176,0.0061
+V0004,Tram,Central Depot,11-20,629.0,177,0.0063
+V0035,Articulated Bus,East Depot,20+,361.0,153,0.0078
+V0161,Articulated Bus,North Depot,20+,331.0,154,0.0078
+V0089,Articulated Bus,East Depot,20+,334.0,148,0.0079
+V0100,Articulated Bus,Central Depot,11-20,352.0,153,0.008
+V0115,Articulated Bus,East Depot,20+,326.0,149,0.0081
+V0082,Articulated Bus,East Depot,20+,364.0,156,0.0081
+V0068,Articulated Bus,East Depot,20+,318.0,147,0.0083
+V0168,Articulated Bus,Central Depot,6-10,360.0,152,0.0083
+V0110,Articulated Bus,East Depot,0-5,345.0,146,0.0084
+V0099,Articulated Bus,Central Depot,11-20,313.0,150,0.0085
+V0180,Articulated Bus,Central Depot,20+,339.0,152,0.0085
+V0001,Articulated Bus,Central Depot,0-5,343.0,147,0.0085
+V0093,Articulated Bus,Riverside Depot,6-10,323.0,139,0.0086
+V0077,Articulated Bus,East Depot,Unknown,337.0,153,0.0087
+V0006,Articulated Bus,East Depot,11-20,356.0,150,0.0089
+V0108,Articulated Bus,Central Depot,11-20,308.0,144,0.0089
+V0144,Articulated Bus,Central Depot,0-5,315.0,154,0.0089
+V0169,Articulated Bus,East Depot,11-20,357.0,156,0.0089
+V0003,Articulated Bus,Central Depot,0-5,354.0,150,0.0089
+V0071,Articulated Bus,East Depot,20+,331.0,154,0.0089
+V0147,Articulated Bus,Central Depot,Unknown,362.0,156,0.0091
+V0009,Articulated Bus,Riverside Depot,6-10,330.0,151,0.0091
+V0175,Articulated Bus,North Depot,20+,349.0,153,0.0091
+V0097,Articulated Bus,Riverside Depot,0-5,336.0,156,0.0092
+V0106,Articulated Bus,Central Depot,11-20,330.0,156,0.0092
+V0088,Articulated Bus,North Depot,0-5,367.0,160,0.0094
+V0152,Articulated Bus,Riverside Depot,20+,348.0,149,0.0095
+V0070,Articulated Bus,Riverside Depot,20+,337.0,149,0.0095
+V0058,Articulated Bus,North Depot,20+,338.0,152,0.0096
+V0114,Articulated Bus,North Depot,11-20,307.0,150,0.0097
+V0080,Articulated Bus,Riverside Depot,11-20,326.0,144,0.0097
+V0170,Articulated Bus,North Depot,Unknown,325.0,148,0.0097
+V0048,Articulated Bus,Riverside Depot,20+,357.0,155,0.0099
+V0174,Articulated Bus,East Depot,6-10,310.0,138,0.0099
+V0050,Articulated Bus,Riverside Depot,20+,284.0,146,0.01
+V0134,Articulated Bus,East Depot,20+,369.0,152,0.0101
+V0102,Articulated Bus,Central Depot,20+,323.0,147,0.0102
+V0075,Articulated Bus,Central Depot,11-20,393.0,161,0.0103
+V0119,Articulated Bus,Central Depot,0-5,324.0,141,0.0104
+V0060,Articulated Bus,Central Depot,20+,298.0,147,0.0104
+V0085,Standard Bus,Riverside Depot,6-10,296.0,140,0.0129
+V0172,Standard Bus,North Depot,6-10,304.0,142,0.0131
+V0014,Standard Bus,Central Depot,20+,354.0,154,0.0132
+V0148,Standard Bus,East Depot,20+,356.0,147,0.0133
+V0158,Standard Bus,Riverside Depot,11-20,315.0,146,0.0134
+V0133,Standard Bus,North Depot,Unknown,349.0,152,0.0134
+V0047,Standard Bus,North Depot,20+,352.0,152,0.0135
+V0008,Standard Bus,East Depot,6-10,346.0,153,0.0136
+V0124,Standard Bus,Central Depot,20+,386.0,161,0.0137
+V0010,Standard Bus,Central Depot,11-20,353.0,150,0.0137
+V0179,Standard Bus,North Depot,20+,360.0,155,0.0138
+V0011,Standard Bus,East Depot,20+,329.0,153,0.0141
+V0090,Standard Bus,Central Depot,Unknown,318.0,140,0.0142
+V0023,Standard Bus,North Depot,20+,350.0,151,0.0142
+V0167,Standard Bus,Central Depot,0-5,308.0,145,0.0142
+V0117,Standard Bus,Central Depot,20+,361.0,151,0.0143
+V0104,Standard Bus,North Depot,20+,367.0,157,0.0143
+V0155,Standard Bus,Riverside Depot,20+,325.0,141,0.0143
+V0095,Standard Bus,Central Depot,0-5,344.0,153,0.0144
+V0156,Standard Bus,Riverside Depot,20+,338.0,154,0.0145
+V0034,Standard Bus,North Depot,20+,335.0,152,0.0146
+V0084,Standard Bus,North Depot,11-20,379.0,157,0.0146
+V0072,Standard Bus,North Depot,20+,341.0,151,0.0146
+V0136,Standard Bus,East Depot,6-10,328.0,151,0.0147
+V0146,Standard Bus,North Depot,20+,360.0,146,0.0147
+V0019,Standard Bus,North Depot,6-10,339.0,143,0.0147
+V0054,Standard Bus,Central Depot,20+,323.0,150,0.0148
+V0005,Standard Bus,Riverside Depot,11-20,307.0,143,0.0149
+V0126,Standard Bus,North Depot,11-20,320.0,138,0.015
+V0143,Standard Bus,East Depot,Unknown,372.0,153,0.0151
+V0046,Standard Bus,Central Depot,0-5,317.0,149,0.0152
+V0132,Standard Bus,Riverside Depot,20+,342.0,151,0.0152
+V0107,Standard Bus,Central Depot,20+,354.0,149,0.0153
+V0125,Standard Bus,North Depot,6-10,321.0,150,0.0154
+V0017,Standard Bus,North Depot,20+,315.0,150,0.0154
+V0002,Standard Bus,East Depot,20+,278.0,139,0.0155
+V0079,Standard Bus,North Depot,11-20,321.0,139,0.0155
+V0055,Standard Bus,North Depot,Unknown,345.0,152,0.0155
+V0096,Standard Bus,Central Depot,20+,365.0,157,0.0155
+V0163,Standard Bus,Central Depot,Unknown,346.0,150,0.0156
+V0052,Standard Bus,Central Depot,20+,329.0,146,0.0156
+V0098,Standard Bus,North Depot,0-5,341.0,155,0.0156
+V0059,Standard Bus,Central Depot,20+,405.0,157,0.0156
+V0033,Standard Bus,North Depot,20+,336.0,148,0.0156
+V0145,Standard Bus,Riverside Depot,11-20,363.0,153,0.0156
+V0083,Standard Bus,Riverside Depot,Unknown,376.0,160,0.0157
+V0149,Standard Bus,Central Depot,6-10,325.0,149,0.0157
+V0171,Standard Bus,East Depot,11-20,325.0,151,0.0157
+V0091,Standard Bus,East Depot,20+,346.0,155,0.0158
+V0087,Standard Bus,Riverside Depot,11-20,356.0,155,0.0159
+V0037,Standard Bus,North Depot,20+,345.0,149,0.016
+V0092,Standard Bus,Central Depot,Unknown,329.0,154,0.0162
+V0109,Standard Bus,North Depot,20+,332.0,150,0.0162
+V0160,Standard Bus,Central Depot,11-20,345.0,150,0.0163
+V0165,Standard Bus,Riverside Depot,11-20,346.0,152,0.0163
+V0025,Standard Bus,North Depot,0-5,336.0,148,0.0164
+V0123,Standard Bus,North Depot,11-20,351.0,151,0.0164
+V0166,Standard Bus,Riverside Depot,20+,341.0,155,0.0164
+V0029,Standard Bus,Central Depot,20+,362.0,154,0.0165
+V0039,Standard Bus,North Depot,11-20,377.0,154,0.0166
+V0074,Standard Bus,East Depot,11-20,340.0,155,0.0167
+V0066,Standard Bus,East Depot,Unknown,338.0,149,0.0169
+V0121,Standard Bus,Central Depot,20+,350.0,145,0.017
+V0129,Standard Bus,Riverside Depot,11-20,359.0,154,0.017
+V0026,Standard Bus,Riverside Depot,20+,333.0,155,0.0171
+V0162,Standard Bus,East Depot,11-20,334.0,151,0.0171
+V0027,Standard Bus,North Depot,20+,340.0,151,0.0172
+V0032,Standard Bus,Central Depot,11-20,301.0,146,0.0173
+V0065,Standard Bus,Riverside Depot,11-20,356.0,150,0.0173
+V0135,Standard Bus,Central Depot,20+,325.0,139,0.0175
+V0178,Standard Bus,Central Depot,20+,361.0,155,0.0176
+V0127,Standard Bus,Central Depot,20+,337.0,159,0.0176
+V0045,Standard Bus,North Depot,11-20,320.0,150,0.0176
+V0140,Standard Bus,Riverside Depot,20+,321.0,152,0.0177
+V0061,Standard Bus,Riverside Depot,0-5,352.0,144,0.0177
+V0086,Standard Bus,North Depot,11-20,335.0,145,0.0178
+V0064,Standard Bus,East Depot,6-10,339.0,143,0.018
+V0120,Standard Bus,Central Depot,Unknown,376.0,155,0.018
+V0157,Standard Bus,North Depot,Unknown,371.0,155,0.018
+V0094,Standard Bus,East Depot,11-20,343.0,148,0.0182
+V0081,Standard Bus,Central Depot,6-10,327.0,148,0.0187

@@ -1,0 +1,401 @@
+stop_id,stop_name,district,zone,has_shelter,total_boardings,rank_within_district
+S0047,Joseph Coves Stop,Centro,Zone 3,False,206.0,1
+S0323,Brandon Camp Stop,Centro,Zone 1,False,201.0,2
+S0014,James Plain Stop,Centro,Zone 3,False,200.0,3
+S0394,Tucker Mills Stop,Centro,Zone 2,False,199.0,4
+S0103,Jennifer Lights Stop,Centro,Zone 1,False,196.0,5
+S0314,Davis Locks Stop,Centro,Zone 2,True,196.0,5
+S0021,Lewis Locks Stop,Centro,Zone 3,False,195.0,7
+S0186,James Streets Stop,Centro,Zone 2,False,195.0,7
+S0192,Terry Crossroad Stop,Centro,Zone 3,False,194.0,9
+S0350,Thomas Tunnel Stop,Centro,Zone 1,False,193.0,10
+S0391,Nicole Drives Stop,Centro,Zone 1,False,192.0,11
+S0037,Emily Hills Stop,Centro,Zone 1,True,190.0,12
+S0043,Moore Village Stop,Centro,Zone 2,False,188.0,13
+S0342,Mark Drive Stop,Centro,Zone 2,False,187.0,14
+S0347,Brianna Brook Stop,Centro,Zone 1,False,186.0,15
+S0179,Kevin Prairie Stop,Centro,Zone 2,False,185.0,16
+S0304,Bethany Street Stop,Centro,Zone 3,False,185.0,16
+S0042,Natasha Land Stop,Centro,Zone 1,True,184.0,18
+S0215,Deborah Grove Stop,Centro,Zone 3,False,184.0,18
+S0209,Eric Lodge Stop,Centro,Zone 1,True,183.0,20
+S0052,Williams Isle Stop,Centro,Zone 1,False,179.0,21
+S0157,Laura Port Stop,Centro,Zone 2,False,178.0,22
+S0252,Michelle Harbor Stop,Centro,Zone 2,False,178.0,22
+S0349,Fox Summit Stop,Centro,Zone 1,False,178.0,22
+S0177,West Brook Stop,Centro,Zone 1,False,176.0,25
+S0231,Mark Square Stop,Centro,Zone 1,False,176.0,25
+S0337,Davis Forest Stop,Centro,Zone 2,False,176.0,25
+S0288,Santana Springs Stop,Centro,Zone 3,True,175.0,28
+S0309,Jonathan Views Stop,Centro,Zone 1,True,175.0,28
+S0219,Lyons Groves Stop,Centro,Zone 2,False,172.0,30
+S0002,Brianna Avenue Stop,Centro,Zone 3,True,171.0,31
+S0386,Jones Streets Stop,Centro,Zone 1,False,166.0,32
+S0232,Roberts Locks Stop,Centro,Zone 3,False,165.0,33
+S0384,Dorsey Keys Stop,Centro,Zone 2,False,163.0,34
+S0216,Charles Expressway Stop,Centro,Zone 2,False,160.0,35
+S0194,Harrison Mill Stop,Centro,Zone 1,False,158.0,36
+S0185,Julia Track Stop,Centro,Zone 2,False,156.0,37
+S0380,Wilson Harbors Stop,Centro,Zone 2,True,156.0,37
+S0338,Brent Isle Stop,Centro,Zone 2,True,154.0,39
+S0366,Perry Court Stop,Eastfield,Zone 1,False,201.0,1
+S0127,Molina Walk Stop,Eastfield,Zone 2,False,200.0,2
+S0152,Johnston Lane Stop,Eastfield,Zone 3,False,200.0,2
+S0145,Mary Road Stop,Eastfield,Zone 3,False,198.0,4
+S0212,Warner Motorway Stop,Eastfield,Zone 1,False,197.0,5
+S0328,Nicole Shoal Stop,Eastfield,Zone 1,True,197.0,5
+S0045,Elizabeth Plaza Stop,Eastfield,Zone 3,False,196.0,7
+S0297,Renee Summit Stop,Eastfield,Zone 2,False,195.0,8
+S0195,Lopez Center Stop,Eastfield,Zone 1,False,193.0,9
+S0221,Pamela Street Stop,Eastfield,Zone 2,False,193.0,9
+S0062,Elizabeth Knoll Stop,Eastfield,Zone 1,True,192.0,11
+S0163,Jessica Run Stop,Eastfield,Zone 1,False,190.0,12
+S0079,Daniel Mews Stop,Eastfield,Zone 1,False,189.0,13
+S0171,Salinas Junctions Stop,Eastfield,Zone 3,True,185.0,14
+S0262,Thornton Valleys Stop,Eastfield,Zone 1,False,185.0,14
+S0238,Dean Parks Stop,Eastfield,Zone 2,False,184.0,16
+S0150,Kimberly Estates Stop,Eastfield,Zone 1,False,183.0,17
+S0261,Williams Summit Stop,Eastfield,Zone 1,False,183.0,17
+S0154,Brittany Village Stop,Eastfield,Zone 1,False,181.0,19
+S0196,Everett Neck Stop,Eastfield,Zone 3,False,181.0,19
+S0097,Donna Haven Stop,Eastfield,Zone 2,False,180.0,21
+S0155,Curtis Trail Stop,Eastfield,Zone 1,False,179.0,22
+S0331,Hannah Forge Stop,Eastfield,Zone 1,True,179.0,22
+S0365,Morgan Motorway Stop,Eastfield,Zone 1,False,177.0,24
+S0343,Joshua Drive Stop,Eastfield,Zone 2,False,175.0,25
+S0227,Moon Falls Stop,Eastfield,Zone 2,True,173.0,26
+S0110,Contreras Points Stop,Eastfield,Zone 1,False,172.0,27
+S0352,Gordon Ridges Stop,Eastfield,Zone 2,False,171.0,28
+S0039,Albert Road Stop,Eastfield,Zone 1,False,170.0,29
+S0095,Marshall Mills Stop,Eastfield,Zone 2,False,170.0,29
+S0286,Steven Glens Stop,Eastfield,Zone 3,True,169.0,31
+S0105,Patricia Wall Stop,Eastfield,Zone 3,False,166.0,32
+S0368,Brooks Drives Stop,Eastfield,Zone 1,False,166.0,32
+S0188,Hooper Village Stop,Eastfield,Zone 2,False,161.0,34
+S0019,Tanya Terrace Stop,Eastfield,Zone 1,False,158.0,35
+S0176,Hannah Rue Stop,Eastfield,Zone 1,False,155.0,36
+S0319,Johnson Points Stop,Harbourside,Zone 1,False,228.0,1
+S0322,Banks Crescent Stop,Harbourside,Zone 1,False,215.0,2
+S0237,Gutierrez Field Stop,Harbourside,Zone 1,False,214.0,3
+S0178,Kelly Lodge Stop,Harbourside,Zone 1,False,213.0,4
+S0253,Morgan Turnpike Stop,Harbourside,Zone 2,True,211.0,5
+S0383,Johnson Groves Stop,Harbourside,Zone 3,False,209.0,6
+S0149,Jackson Rest Stop,Harbourside,Zone 2,False,197.0,7
+S0250,Stephen Drive Stop,Harbourside,Zone 3,False,197.0,7
+S0139,Ramirez Village Stop,Harbourside,Zone 1,True,196.0,9
+S0015,Taylor Falls Stop,Harbourside,Zone 1,False,194.0,10
+S0173,Peters Path Stop,Harbourside,Zone 1,True,194.0,10
+S0124,Stein Prairie Stop,Harbourside,Zone 3,True,193.0,12
+S0201,Angela Mall Stop,Harbourside,Zone 3,True,193.0,12
+S0146,John Mountains Stop,Harbourside,Zone 3,True,191.0,14
+S0218,Gonzales Mountain Stop,Harbourside,Zone 1,True,189.0,15
+S0324,Ferrell Crescent Stop,Harbourside,Zone 1,True,189.0,15
+S0069,Joseph Turnpike Stop,Harbourside,Zone 1,True,186.0,17
+S0207,Joseph Common Stop,Harbourside,Zone 2,False,185.0,18
+S0254,Hoover Haven Stop,Harbourside,Zone 1,False,184.0,19
+S0289,Charles Key Stop,Harbourside,Zone 2,True,183.0,20
+S0024,Mitchell Square Stop,Harbourside,Zone 1,False,182.0,21
+S0320,Herman Forges Stop,Harbourside,Zone 2,False,180.0,22
+S0298,Wall Heights Stop,Harbourside,Zone 2,False,178.0,23
+S0111,Dodson Mills Stop,Harbourside,Zone 1,False,177.0,24
+S0220,Kim Rapid Stop,Harbourside,Zone 1,False,176.0,25
+S0339,Vanessa Turnpike Stop,Harbourside,Zone 1,False,173.0,26
+S0027,Julie Centers Stop,Harbourside,Zone 1,True,171.0,27
+S0087,Jennifer Hills Stop,Harbourside,Zone 1,False,171.0,27
+S0053,Dana Greens Stop,Harbourside,Zone 2,True,170.0,29
+S0113,Merritt Summit Stop,Harbourside,Zone 1,False,170.0,29
+S0341,Brenda Via Stop,Harbourside,Zone 3,False,169.0,31
+S0346,David Knolls Stop,Harbourside,Zone 1,False,169.0,31
+S0128,Medina Street Stop,Harbourside,Zone 1,False,168.0,33
+S0036,Allen Locks Stop,Harbourside,Zone 1,False,167.0,34
+S0187,Hill Radial Stop,Harbourside,Zone 1,False,167.0,34
+S0330,Crosby Harbors Stop,Harbourside,Zone 1,True,164.0,36
+S0099,Emily Fork Stop,Harbourside,Zone 1,True,162.0,37
+S0082,Paul Ports Stop,Harbourside,Zone 1,False,160.0,38
+S0373,Santiago Loop Stop,Harbourside,Zone 1,True,157.0,39
+S0300,Dana River Stop,Harbourside,Zone 1,True,156.0,40
+S0334,Stephens Rue Stop,Harbourside,Zone 1,False,155.0,41
+S0174,Christopher Stravenue Stop,Harbourside,Zone 1,False,154.0,42
+S0371,Cain Point Stop,Harbourside,Zone 1,False,154.0,42
+S0169,Rogers Park Stop,Harbourside,Zone 3,False,148.0,44
+S0268,Jennifer Lodge Stop,Harbourside,Zone 1,False,147.0,45
+S0223,Jeremy Spring Stop,Hillcrest,Zone 2,False,217.0,1
+S0282,Amanda Port Stop,Hillcrest,Zone 1,True,215.0,2
+S0306,Burgess Extensions Stop,Hillcrest,Zone 2,True,214.0,3
+S0388,Nicholas Motorway Stop,Hillcrest,Zone 1,False,203.0,4
+S0141,Smith Plains Stop,Hillcrest,Zone 2,False,195.0,5
+S0143,Debra Tunnel Stop,Hillcrest,Zone 1,False,195.0,5
+S0397,Gregory Ramp Stop,Hillcrest,Zone 1,False,194.0,7
+S0115,Mary Harbor Stop,Hillcrest,Zone 1,True,192.0,8
+S0228,Walters Overpass Stop,Hillcrest,Zone 1,True,192.0,8
+S0246,Valentine Rue Stop,Hillcrest,Zone 3,False,191.0,10
+S0170,White Forest Stop,Hillcrest,Zone 3,False,190.0,11
+S0400,Adrian Hollow Stop,Hillcrest,Zone 1,False,190.0,11
+S0026,Tanya Prairie Stop,Hillcrest,Zone 3,False,186.0,13
+S0008,Sanchez Mountains Stop,Hillcrest,Zone 1,False,185.0,14
+S0091,Byrd Extensions Stop,Hillcrest,Zone 3,False,184.0,15
+S0050,Wagner Glen Stop,Hillcrest,Zone 1,False,182.0,16
+S0158,Michael Meadow Stop,Hillcrest,Zone 3,False,182.0,16
+S0278,Scott Square Stop,Hillcrest,Zone 3,False,182.0,16
+S0313,Coffey Unions Stop,Hillcrest,Zone 1,False,180.0,19
+S0013,Mcbride Coves Stop,Hillcrest,Zone 1,False,179.0,20
+S0340,Casey Track Stop,Hillcrest,Zone 1,False,179.0,20
+S0362,Garcia Squares Stop,Hillcrest,Zone 3,True,179.0,20
+S0123,Jamie Manor Stop,Hillcrest,Zone 2,False,178.0,23
+S0332,Wallace Freeway Stop,Hillcrest,Zone 1,False,178.0,23
+S0239,Wolf Ford Stop,Hillcrest,Zone 2,False,176.0,25
+S0148,Lyons Trafficway Stop,Hillcrest,Zone 1,False,175.0,26
+S0197,Lynn Locks Stop,Hillcrest,Zone 2,False,175.0,26
+S0301,Byrd Stravenue Stop,Hillcrest,Zone 1,False,175.0,26
+S0074,Raymond Harbors Stop,Hillcrest,Zone 1,False,173.0,29
+S0156,Jefferson Rapid Stop,Hillcrest,Zone 3,False,173.0,29
+S0191,Joshua Center Stop,Hillcrest,Zone 2,True,173.0,29
+S0281,Brooks Drive Stop,Hillcrest,Zone 3,False,172.0,32
+S0381,Lindsay Vista Stop,Hillcrest,Zone 2,False,172.0,32
+S0190,Kevin Station Stop,Hillcrest,Zone 2,False,171.0,34
+S0206,Stacey Fords Stop,Hillcrest,Zone 1,True,170.0,35
+S0230,Morris Cove Stop,Hillcrest,Zone 3,False,167.0,36
+S0292,Yvonne Walk Stop,Hillcrest,Zone 3,False,167.0,36
+S0303,Kyle Mill Stop,Hillcrest,Zone 1,True,166.0,38
+S0116,Sims Harbor Stop,Hillcrest,Zone 1,True,162.0,39
+S0102,Stanley Roads Stop,Hillcrest,Zone 3,False,159.0,40
+S0370,Christopher Court Stop,Hillcrest,Zone 2,False,157.0,41
+S0077,Crosby Crescent Stop,Hillcrest,Zone 1,False,156.0,42
+S0267,Garcia Motorway Stop,Hillcrest,Zone 1,False,153.0,43
+S0092,Sullivan Village Stop,Hillcrest,Zone 1,True,137.0,44
+S0224,Yvonne Spring Stop,Northgate,Zone 2,False,215.0,1
+S0142,Zoe Keys Stop,Northgate,Zone 1,False,214.0,2
+S0003,Jean Circle Stop,Northgate,Zone 2,False,213.0,3
+S0389,Moore Inlet Stop,Northgate,Zone 2,False,213.0,3
+S0240,Dunn Heights Stop,Northgate,Zone 1,False,209.0,5
+S0398,Rose Inlet Stop,Northgate,Zone 1,False,207.0,6
+S0385,Howard Divide Stop,Northgate,Zone 2,False,206.0,7
+S0234,Morris Trail Stop,Northgate,Zone 2,True,204.0,8
+S0030,Melissa Cliff Stop,Northgate,Zone 1,False,199.0,9
+S0044,Carr Valley Stop,Northgate,Zone 2,False,199.0,9
+S0265,Wayne Ramp Stop,Northgate,Zone 3,False,198.0,11
+S0211,Johnson Heights Stop,Northgate,Zone 3,False,196.0,12
+S0310,Coffey Hill Stop,Northgate,Zone 1,False,196.0,12
+S0083,Jonathan Station Stop,Northgate,Zone 3,False,192.0,14
+S0133,Calhoun Road Stop,Northgate,Zone 2,False,191.0,15
+S0273,Finley Road Stop,Northgate,Zone 1,False,190.0,16
+S0369,Jones Village Stop,Northgate,Zone 2,False,190.0,16
+S0075,Tammy Harbors Stop,Northgate,Zone 1,True,189.0,18
+S0080,Chandler Island Stop,Northgate,Zone 1,True,188.0,19
+S0272,Phelps Walks Stop,Northgate,Zone 1,False,187.0,20
+S0107,Linda Square Stop,Northgate,Zone 2,False,185.0,21
+S0023,Baker Tunnel Stop,Northgate,Zone 3,True,184.0,22
+S0241,Gilmore Oval Stop,Northgate,Zone 2,False,184.0,22
+S0256,Grimes Mission Stop,Northgate,Zone 2,False,184.0,22
+S0277,Ryan Courts Stop,Northgate,Zone 3,False,183.0,25
+S0311,Brock Mountain Stop,Northgate,Zone 1,False,183.0,25
+S0151,Rodriguez Burg Stop,Northgate,Zone 3,False,182.0,27
+S0153,David Flat Stop,Northgate,Zone 1,False,182.0,27
+S0114,Cole Terrace Stop,Northgate,Zone 1,False,181.0,29
+S0140,King Common Stop,Northgate,Zone 1,False,178.0,30
+S0184,Jennifer Island Stop,Northgate,Zone 2,False,178.0,30
+S0329,Martha Ridges Stop,Northgate,Zone 2,False,178.0,30
+S0130,Tucker Loaf Stop,Northgate,Zone 3,False,177.0,33
+S0137,Jorge Islands Stop,Northgate,Zone 1,False,176.0,34
+S0167,Joshua Mission Stop,Northgate,Zone 2,True,176.0,34
+S0031,Emma Freeway Stop,Northgate,Zone 2,False,175.0,36
+S0038,Stewart Terrace Stop,Northgate,Zone 1,False,175.0,36
+S0260,Hall Trail Stop,Northgate,Zone 2,True,175.0,36
+S0226,Thomas Run Stop,Northgate,Zone 1,True,174.0,39
+S0061,Rachel Fords Stop,Northgate,Zone 2,False,172.0,40
+S0096,William Underpass Stop,Northgate,Zone 3,False,172.0,40
+S0283,George Common Stop,Northgate,Zone 1,True,171.0,42
+S0374,Russo Terrace Stop,Northgate,Zone 1,False,171.0,42
+S0316,Richardson Summit Stop,Northgate,Zone 1,False,168.0,44
+S0180,Kennedy Pines Stop,Northgate,Zone 3,False,162.0,45
+S0093,Kevin Fords Stop,Northgate,Zone 1,False,161.0,46
+S0101,Tracey Ridge Stop,Northgate,Zone 1,False,160.0,47
+S0291,Bryant Hollow Stop,Northgate,Zone 1,False,154.0,48
+S0098,Davis Terrace Stop,Old Town,Zone 3,False,222.0,1
+S0089,Terry Plaza Stop,Old Town,Zone 3,False,211.0,2
+S0387,Christopher Pines Stop,Old Town,Zone 1,False,199.0,3
+S0290,Fowler Manors Stop,Old Town,Zone 1,False,197.0,4
+S0284,Harvey Garden Stop,Old Town,Zone 1,True,195.0,5
+S0225,Johnston Track Stop,Old Town,Zone 2,False,193.0,6
+S0028,Breanna Parkway Stop,Old Town,Zone 1,False,190.0,7
+S0217,Larson Views Stop,Old Town,Zone 2,False,190.0,7
+S0006,Caldwell Forest Stop,Old Town,Zone 3,False,189.0,9
+S0065,Theresa Valleys Stop,Old Town,Zone 3,True,189.0,9
+S0161,Garcia Lake Stop,Old Town,Zone 1,False,189.0,9
+S0058,Aguilar Drive Stop,Old Town,Zone 2,False,187.0,12
+S0299,Catherine Knoll Stop,Old Town,Zone 1,False,187.0,12
+S0359,Cameron Harbor Stop,Old Town,Zone 3,True,187.0,12
+S0203,Kerr Hills Stop,Old Town,Zone 1,False,186.0,15
+S0247,Tyrone Stravenue Stop,Old Town,Zone 3,False,185.0,16
+S0335,Brown Harbor Stop,Old Town,Zone 1,False,185.0,16
+S0200,Miller Gateway Stop,Old Town,Zone 1,False,183.0,18
+S0356,Simmons Coves Stop,Old Town,Zone 2,False,183.0,18
+S0357,Joseph Mills Stop,Old Town,Zone 3,True,183.0,18
+S0004,Carlos Bypass Stop,Old Town,Zone 1,False,182.0,21
+S0125,Melissa Track Stop,Old Town,Zone 2,True,182.0,21
+S0361,Chavez Rapids Stop,Old Town,Zone 1,False,182.0,21
+S0136,Michelle Falls Stop,Old Town,Zone 2,False,180.0,24
+S0355,Yolanda Vista Stop,Old Town,Zone 3,False,180.0,24
+S0248,Hicks Groves Stop,Old Town,Zone 2,True,179.0,26
+S0294,Andrews Squares Stop,Old Town,Zone 1,False,175.0,27
+S0245,Victoria Crescent Stop,Old Town,Zone 1,False,172.0,28
+S0129,Tracy Groves Stop,Old Town,Zone 1,False,170.0,29
+S0214,Ronald Plains Stop,Old Town,Zone 3,False,168.0,30
+S0363,Melissa Run Stop,Old Town,Zone 1,False,167.0,31
+S0326,Paul Land Stop,Old Town,Zone 3,False,164.0,32
+S0193,Garcia Bridge Stop,Old Town,Zone 2,True,162.0,33
+S0244,Andrea Course Stop,Old Town,Zone 1,True,162.0,33
+S0165,Marshall Views Stop,Old Town,Zone 1,False,159.0,35
+S0333,Garcia Spur Stop,Old Town,Zone 1,False,159.0,35
+S0018,Brent Plains Stop,Old Town,Zone 1,True,157.0,37
+S0375,Parrish Stravenue Stop,Old Town,Zone 1,False,157.0,37
+S0010,Gomez Loop Stop,Old Town,Zone 2,False,154.0,39
+S0086,Hanson Shore Stop,Old Town,Zone 2,True,153.0,40
+S0020,Gabriel Oval Stop,Old Town,Zone 1,False,147.0,41
+S0022,Franklin Alley Stop,Parkview,Zone 1,False,213.0,1
+S0379,Melanie Keys Stop,Parkview,Zone 3,False,213.0,1
+S0041,Anderson Keys Stop,Parkview,Zone 1,False,211.0,3
+S0159,Jones Rue Stop,Parkview,Zone 1,False,211.0,3
+S0007,Jennifer Ports Stop,Parkview,Zone 1,False,207.0,5
+S0126,Woods Knoll Stop,Parkview,Zone 1,False,202.0,6
+S0345,Daniel Way Stop,Parkview,Zone 1,False,199.0,7
+S0305,Christopher Hill Stop,Parkview,Zone 2,False,198.0,8
+S0243,Jennifer Inlet Stop,Parkview,Zone 2,False,196.0,9
+S0307,David Plains Stop,Parkview,Zone 1,False,196.0,9
+S0376,Tanya Rapid Stop,Parkview,Zone 1,False,195.0,11
+S0160,Smith Manor Stop,Parkview,Zone 1,False,194.0,12
+S0259,Tina Garden Stop,Parkview,Zone 1,False,194.0,12
+S0364,Russell Forks Stop,Parkview,Zone 1,False,194.0,12
+S0199,Edward Valleys Stop,Parkview,Zone 1,True,193.0,15
+S0208,John Plaza Stop,Parkview,Zone 1,True,193.0,15
+S0172,Beard Squares Stop,Parkview,Zone 2,False,192.0,17
+S0233,Shawn Island Stop,Parkview,Zone 2,True,191.0,18
+S0067,Jill Isle Stop,Parkview,Zone 3,False,190.0,19
+S0308,Schmidt Groves Stop,Parkview,Zone 1,False,183.0,20
+S0229,Theodore Lodge Stop,Parkview,Zone 1,False,182.0,21
+S0162,Zimmerman Mews Stop,Parkview,Zone 1,False,181.0,22
+S0081,Obrien Pass Stop,Parkview,Zone 1,False,177.0,23
+S0251,Lee Rapid Stop,Parkview,Zone 1,False,175.0,24
+S0119,Devon Fort Stop,Parkview,Zone 1,False,174.0,25
+S0236,Diane Plains Stop,Parkview,Zone 1,False,174.0,25
+S0257,Reed Plaza Stop,Parkview,Zone 1,False,174.0,25
+S0315,Joseph Crossing Stop,Parkview,Zone 2,False,174.0,25
+S0025,Moore Hill Stop,Parkview,Zone 2,False,173.0,29
+S0378,Eric Orchard Stop,Parkview,Zone 1,False,173.0,29
+S0057,Amy Village Stop,Parkview,Zone 1,True,166.0,31
+S0392,Karen Causeway Stop,Parkview,Zone 3,True,161.0,32
+S0279,Berger Cape Stop,Parkview,Zone 1,False,160.0,33
+S0064,Sara Freeway Stop,Parkview,Zone 2,True,159.0,34
+S0063,Dickson Summit Stop,Parkview,Zone 1,False,158.0,35
+S0348,Joseph Crossroad Stop,Parkview,Zone 1,False,154.0,36
+S0009,Lee Court Stop,Riverside,Zone 3,False,209.0,1
+S0118,Joseph Island Stop,Riverside,Zone 1,True,205.0,2
+S0393,Joseph Shore Stop,Riverside,Zone 1,True,204.0,3
+S0084,Smith Valley Stop,Riverside,Zone 2,False,202.0,4
+S0213,Grace Greens Stop,Riverside,Zone 1,False,201.0,5
+S0181,Coleman Summit Stop,Riverside,Zone 1,False,199.0,6
+S0198,Jones Roads Stop,Riverside,Zone 2,False,197.0,7
+S0360,James Ranch Stop,Riverside,Zone 1,False,197.0,7
+S0017,Scott Wall Stop,Riverside,Zone 2,True,196.0,9
+S0051,Christopher Manors Stop,Riverside,Zone 1,True,193.0,10
+S0132,Ramsey Ville Stop,Riverside,Zone 1,False,191.0,11
+S0204,Torres River Stop,Riverside,Zone 3,True,191.0,11
+S0295,Johnson Village Stop,Riverside,Zone 2,False,191.0,11
+S0318,Rodriguez Fort Stop,Riverside,Zone 1,False,190.0,14
+S0049,Jennifer Ford Stop,Riverside,Zone 1,False,189.0,15
+S0090,James Shores Stop,Riverside,Zone 3,False,188.0,16
+S0168,Karen Port Stop,Riverside,Zone 1,False,188.0,16
+S0395,Nelson Throughway Stop,Riverside,Zone 3,False,187.0,18
+S0040,Charles Forest Stop,Riverside,Zone 1,False,186.0,19
+S0104,Ross Drive Stop,Riverside,Zone 1,False,185.0,20
+S0390,Frank Port Stop,Riverside,Zone 1,False,185.0,20
+S0175,Freeman Trace Stop,Riverside,Zone 3,False,184.0,22
+S0029,Brian Pass Stop,Riverside,Zone 3,False,182.0,23
+S0070,Patrick Camp Stop,Riverside,Zone 3,False,180.0,24
+S0046,Huynh Cove Stop,Riverside,Zone 1,True,178.0,25
+S0120,Benson Squares Stop,Riverside,Zone 2,False,178.0,25
+S0377,Bell Ports Stop,Riverside,Zone 2,False,176.0,27
+S0336,Tammy Vista Stop,Riverside,Zone 3,False,173.0,28
+S0055,Hoffman Creek Stop,Riverside,Zone 2,False,171.0,29
+S0066,Nicole Burg Stop,Riverside,Zone 1,True,170.0,30
+S0056,Sierra Spurs Stop,Riverside,Zone 2,False,169.0,31
+S0076,May Locks Stop,Riverside,Zone 1,False,168.0,32
+S0108,Williams Gateway Stop,Riverside,Zone 2,False,168.0,32
+S0001,Matthew Radial Stop,Riverside,Zone 2,False,167.0,34
+S0327,Matthews Stream Stop,Riverside,Zone 2,False,167.0,34
+S0242,Anthony Roads Stop,Riverside,Zone 1,False,162.0,36
+S0249,Davenport Mountains Stop,Riverside,Zone 1,False,161.0,37
+S0302,Courtney Road Stop,Riverside,Zone 1,False,161.0,37
+S0312,Donald Fork Stop,Riverside,Zone 3,False,161.0,37
+S0005,Jones Freeway Stop,Riverside,Zone 2,False,158.0,40
+S0122,Daniels Mall Stop,Riverside,Zone 1,False,153.0,41
+S0034,Robert Prairie Stop,Southbank,Zone 1,False,216.0,1
+S0372,Brenda Points Stop,Southbank,Zone 1,False,211.0,2
+S0396,Michael Creek Stop,Southbank,Zone 1,True,207.0,3
+S0382,Chelsea Shoals Stop,Southbank,Zone 2,False,206.0,4
+S0317,Richards View Stop,Southbank,Zone 2,False,200.0,5
+S0112,Rivas Plaza Stop,Southbank,Zone 2,False,199.0,6
+S0182,Bell Motorway Stop,Southbank,Zone 1,False,198.0,7
+S0012,Bruce Stream Stop,Southbank,Zone 1,False,197.0,8
+S0189,Kenneth Lake Stop,Southbank,Zone 3,True,196.0,9
+S0134,Rebecca Ramp Stop,Southbank,Zone 1,False,192.0,10
+S0164,Gilbert Plain Stop,Southbank,Zone 1,False,191.0,11
+S0035,Donovan Ford Stop,Southbank,Zone 1,False,188.0,12
+S0068,Pham Way Stop,Southbank,Zone 1,False,188.0,12
+S0258,Gibson Islands Stop,Southbank,Zone 1,False,188.0,12
+S0085,Michael Cliff Stop,Southbank,Zone 1,False,186.0,15
+S0048,Joseph Rapids Stop,Southbank,Zone 1,True,183.0,16
+S0071,Walker Viaduct Stop,Southbank,Zone 2,False,183.0,16
+S0054,Joyce Plaza Stop,Southbank,Zone 1,False,182.0,18
+S0399,Jeffrey Rapid Stop,Southbank,Zone 1,False,181.0,19
+S0202,Kimberly Light Stop,Southbank,Zone 3,False,180.0,20
+S0271,Santos Walk Stop,Southbank,Zone 2,False,180.0,20
+S0293,Rodriguez Light Stop,Southbank,Zone 2,True,178.0,22
+S0059,Anderson Inlet Stop,Southbank,Zone 2,False,176.0,23
+S0135,Christopher Meadow Stop,Southbank,Zone 1,False,176.0,23
+S0210,Norris Mountains Stop,Southbank,Zone 1,True,174.0,25
+S0222,Munoz Burg Stop,Southbank,Zone 2,False,173.0,26
+S0100,Dylan Cape Stop,Southbank,Zone 1,True,167.0,27
+S0032,Wilson Port Stop,Southbank,Zone 1,False,165.0,28
+S0264,Tyler Camp Stop,Southbank,Zone 2,False,156.0,29
+S0166,Morris Gardens Stop,Southbank,Zone 3,False,152.0,30
+S0285,Durham Divide Stop,Westend,Zone 1,False,212.0,1
+S0147,Anne Forge Stop,Westend,Zone 1,True,206.0,2
+S0088,Estrada Islands Stop,Westend,Zone 3,False,202.0,3
+S0144,Karen Gateway Stop,Westend,Zone 3,False,193.0,4
+S0354,Ellis Burgs Stop,Westend,Zone 3,False,193.0,4
+S0011,Shields Center Stop,Westend,Zone 1,False,192.0,6
+S0353,Jessica Way Stop,Westend,Zone 1,False,191.0,7
+S0073,Jeffrey Shoals Stop,Westend,Zone 2,False,189.0,8
+S0255,Monroe Prairie Stop,Westend,Zone 1,False,189.0,8
+S0131,Caldwell Union Stop,Westend,Zone 3,True,188.0,10
+S0183,Parker Fort Stop,Westend,Zone 1,False,187.0,11
+S0351,Palmer Coves Stop,Westend,Zone 3,False,185.0,12
+S0280,Flynn Hill Stop,Westend,Zone 2,True,184.0,13
+S0367,Simmons Shores Stop,Westend,Zone 1,False,184.0,13
+S0205,Chelsea Streets Stop,Westend,Zone 2,True,182.0,15
+S0321,Cynthia Mountain Stop,Westend,Zone 1,False,182.0,15
+S0094,Floyd Rest Stop,Westend,Zone 3,False,181.0,17
+S0263,Hughes Shore Stop,Westend,Zone 2,False,179.0,18
+S0275,Jimmy Spur Stop,Westend,Zone 3,False,179.0,18
+S0235,Hancock Views Stop,Westend,Zone 1,False,178.0,20
+S0060,Nolan Underpass Stop,Westend,Zone 3,False,177.0,21
+S0121,Caleb Lodge Stop,Westend,Zone 1,False,175.0,22
+S0344,Amber Union Stop,Westend,Zone 1,False,174.0,23
+S0078,White Greens Stop,Westend,Zone 2,False,173.0,24
+S0033,Beth Canyon Stop,Westend,Zone 2,False,172.0,25
+S0016,Ford Well Stop,Westend,Zone 1,False,170.0,26
+S0072,Bailey View Stop,Westend,Zone 1,False,170.0,26
+S0276,Bright Summit Stop,Westend,Zone 2,False,170.0,26
+S0358,Rachel Islands Stop,Westend,Zone 1,True,170.0,26
+S0109,Stephen Unions Stop,Westend,Zone 2,True,168.0,30
+S0138,Shawn Junction Stop,Westend,Zone 3,False,168.0,30
+S0266,Kane Well Stop,Westend,Zone 1,True,167.0,32
+S0270,Morgan Square Stop,Westend,Zone 2,True,165.0,33
+S0325,Jimmy Plain Stop,Westend,Zone 1,False,165.0,33
+S0269,Charles Tunnel Stop,Westend,Zone 2,True,163.0,35
+S0287,Scott Branch Stop,Westend,Zone 3,False,162.0,36
+S0106,Kimberly Forges Stop,Westend,Zone 1,False,160.0,37
+S0296,Hill Port Stop,Westend,Zone 1,False,156.0,38
+S0274,Brennan Camp Stop,Westend,Zone 1,False,155.0,39
+S0117,Jones Heights Stop,Westend,Zone 2,False,145.0,40
